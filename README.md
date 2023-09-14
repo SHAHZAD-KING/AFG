@@ -5,7 +5,7 @@
 ```bash
 cd && rm -rf AFG
 
-git clone https://github.com/shahzadrahimy/AFG
+git clone https://github.com/SHAHZAD-KING/AFG
 
 cd AFG
 
