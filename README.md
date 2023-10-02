@@ -9,5 +9,5 @@ git clone https://github.com/SHAHZAD-KING/AFG
 
 cd AFG
 
-python AFG-PRO.pyc
+python AFG-PRO.py
 ```
